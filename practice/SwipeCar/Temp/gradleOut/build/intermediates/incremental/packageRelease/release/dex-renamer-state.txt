@@ -1,0 +1,4 @@
+#Thu Dec 13 17:41:08 KST 2018
+base.0=C\:\\Users\\jaecheong shin\\Desktop\\Unity\\practice\\SwipeCar\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
